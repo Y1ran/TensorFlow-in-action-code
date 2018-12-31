@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Administrator\\tensor_flow\\Chap4\\DNN_model.ckpt-1"
+all_model_checkpoint_paths: "C:\\Users\\Administrator\\tensor_flow\\Chap4\\DNN_model.ckpt-1"
